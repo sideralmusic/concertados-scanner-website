@@ -1,2 +1,3 @@
-site
 .nova
+.DS_Store
+.gitignore
