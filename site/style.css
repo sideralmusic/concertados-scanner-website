@@ -87,6 +87,22 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5em;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5em;
+    margin-top: 1rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+}
+
 .subtitle {
     font-size: 2rem;
     text-align: center;
