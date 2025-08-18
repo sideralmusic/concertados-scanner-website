@@ -126,6 +126,11 @@ h3 {
     flex-direction: column;
 }
 
+footer .section-container {
+    display: block;
+    padding-bottom: 30px;
+}
+
 .section-other img {
     display: block;
     margin: 0 auto;
